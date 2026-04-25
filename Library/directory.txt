@@ -1,0 +1,10 @@
+admin:password123
+john_doe:secure_pass
+shant:yo
+hello:hi
+user.with.dots:pass.with.dots
+space user:space pass
+mixedCASE:LowerPass
+longusernameexample:12345
+yadu vir singh:@17172727ASDe
+hi:hellooo
